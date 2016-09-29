@@ -18,4 +18,8 @@ as well as raising some other install issues.
 This utility will be able to bootstrap the QGIS load so that it's not called with a 
 batch file but with a real exe that can be pinned to start
 
-In future versions of QGIS we will use a real exe to load QGIS but this works for older versions  
+In future versions of QGIS we will use a real exe to load QGIS but this works for older versions
+
+#### Requirements
+
+.NET 4.0
